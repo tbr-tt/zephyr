@@ -8,7 +8,6 @@ common:
     - mips
     - nios2
     - posix
-    - sparc
   filter: not CONFIG_64BIT
 tests:
   logging.format.switch.deferred:
